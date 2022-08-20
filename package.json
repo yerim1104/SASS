@@ -20,5 +20,8 @@
   "homepage": "https://github.com/yerim1104/SASS#readme",
   "dependencies": {
     "node-sass": "^7.0.1"
+  },
+  "devDependencies": {
+    "sass-lint": "^1.13.1"
   }
 }
